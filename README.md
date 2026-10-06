@@ -1,5 +1,5 @@
 ## Overview
-Unity project (C#) with two AI practices: reinforcement learning with **Q-Learning** and pathfinding with **A\*** and a **Horizon Search**.
+Unity project with two AI practices: reinforcement learning with **Q-Learning** and pathfinding with **A\*** and a **Horizon Search**.
 
 ## Features
 **Pathfinding: A\* maze solver**
